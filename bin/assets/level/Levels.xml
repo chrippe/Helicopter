@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<level_1>
+		<helikopter x="150" y="420" />
+		<carrots>
+			<carrot x="329" y="269" rotation="0"/>
+			<carrot x="482" y="269" rotation="34"/>
+		</carrots>
+		<obstacles>
+			<obstacle x="246" y="260" rotation="0"/>
+			<obstacle x="569" y="260" rotation="0"/>
+		</obstacles>
+		<landingplate x="724" y="480"/>
+		<clockspeed speed="0.7"/>
+	</level_1>
+</data>

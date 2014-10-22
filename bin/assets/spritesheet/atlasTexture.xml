@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:59519fcd3a045b89ea489cbbed60a37f:748f07459378ea1a8c89bd230544609f:552218dab49a4a4aa6bb67b0ea83c52e$ -->
+<TextureAtlas imagePath="atlasTexture.png">
+    <SubTexture name="blocks_01" x="989" y="152" width="27" height="247"/>
+    <SubTexture name="blocks_02" x="178" y="274" width="23" height="186"/>
+    <SubTexture name="blocks_03" x="738" y="161" width="19" height="146"/>
+    <SubTexture name="blocks_04" x="91" y="401" width="12" height="90"/>
+    <SubTexture name="blocks_05" x="383" y="401" width="117" height="28"/>
+    <SubTexture name="blocks_06" x="252" y="452" width="88" height="21"/>
+    <SubTexture name="blocks_07" x="91" y="493" width="62" height="16"/>
+    <SubTexture name="carrot" x="341" y="401" width="40" height="47"/>
+    <SubTexture name="chopper" x="105" y="401" width="71" height="74" frameX="-1" frameY="0" frameWidth="73" frameHeight="74"/>
+    <SubTexture name="clock" x="2" y="401" width="87" height="100" frameX="-2" frameY="0" frameWidth="89" frameHeight="100"/>
+    <SubTexture name="cloud_1" x="502" y="161" width="234" height="137" frameX="-2" frameY="-3" frameWidth="236" frameHeight="141"/>
+    <SubTexture name="cloud_2" x="817" y="2" width="195" height="116" frameX="-1" frameY="-2" frameWidth="197" frameHeight="118"/>
+    <SubTexture name="cloud_3" x="817" y="120" width="170" height="152" frameX="-2" frameY="-2" frameWidth="172" frameHeight="154"/>
+    <SubTexture name="dot" x="422" y="479" width="9" height="11" frameX="-2" frameY="-4" frameWidth="11" frameHeight="15"/>
+    <SubTexture name="ground" x="2" y="2" width="813" height="157"/>
+    <SubTexture name="landingpad" x="203" y="401" width="136" height="49"/>
+    <SubTexture name="rotor_back" x="178" y="462" width="12" height="13"/>
+    <SubTexture name="rotor_top" x="192" y="462" width="58" height="12" frameX="-4" frameY="0" frameWidth="62" frameHeight="12"/>
+    <SubTexture name="toprotoar0001" x="166" y="477" width="59" height="14" frameX="0" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0002" x="257" y="492" width="57" height="14" frameX="-1" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0003" x="316" y="491" width="53" height="14" frameX="-3" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0004" x="371" y="491" width="49" height="14" frameX="-5" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0005" x="383" y="431" width="45" height="14" frameX="-7" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0006" x="392" y="463" width="39" height="14" frameX="-10" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0007" x="989" y="136" width="33" height="14" frameX="-13" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0008" x="430" y="447" width="27" height="14" frameX="-16" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0009" x="178" y="493" width="21" height="16" frameX="-18" frameY="-2" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0010" x="218" y="493" width="15" height="16" frameX="-21" frameY="-2" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0011" x="246" y="492" width="9" height="18" frameX="-23" frameY="-1" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0012" x="1014" y="38" width="3" height="12" frameX="-26" frameY="-6" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0013" x="1014" y="38" width="3" height="12" frameX="-26" frameY="-6" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0014" x="235" y="492" width="9" height="18" frameX="-23" frameY="-1" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0015" x="201" y="493" width="15" height="16" frameX="-21" frameY="-2" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0016" x="155" y="493" width="21" height="16" frameX="-18" frameY="-2" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0017" x="430" y="431" width="27" height="14" frameX="-16" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0018" x="989" y="120" width="33" height="14" frameX="-13" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0019" x="389" y="447" width="39" height="14" frameX="-10" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0020" x="342" y="450" width="45" height="14" frameX="-7" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0021" x="341" y="475" width="49" height="14" frameX="-5" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0022" x="286" y="475" width="53" height="14" frameX="-3" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0023" x="227" y="476" width="57" height="14" frameX="-1" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="toprotoar0024" x="105" y="477" width="59" height="14" frameX="0" frameY="-4" frameWidth="59" frameHeight="20"/>
+    <SubTexture name="visare" x="1014" y="2" width="6" height="34"/>
+</TextureAtlas>
